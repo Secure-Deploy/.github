@@ -1,4 +1,4 @@
-![Secure Deploy Logo](https://securedeploy.uk/assets/logo.png)
+![Secure Deploy Logo](https://securedeploy.uk/assets/logo500.png)
 
 
 # Secure Deploy
